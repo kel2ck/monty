@@ -13,8 +13,7 @@ void f_queue(stack_t **head, unsigned int counter)
 }
 
 /**
- * addqueue - add node to the tail stack
- * @n: new_value
+ * addqueue - add node to the tai
 */
 void addqueue(stack_t **head, int n)
 {
