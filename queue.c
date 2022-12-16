@@ -11,10 +11,6 @@ void f_queue(stack_t **head, unsigned int counter)
 	(void)counter;
 	bus.lifi = 1;
 }
-
-/**
- * addqueue - add node to the tai
-*/
 void addqueue(stack_t **head, int n)
 {
 	stack_t *new_node, *aux;
